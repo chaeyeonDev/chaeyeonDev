@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="http://github-readme-stats.vercel.app/top-langs/?username=chaeyeonDev&layout=compact"><br><br>
+<img src="http://github-readme=stats.vercel.app/username=chaeyeonDev&show_icons=true">
+
 <!--
 **chaeyeonDev/chaeyeonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
